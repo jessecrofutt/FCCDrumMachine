@@ -1,0 +1,99 @@
+
+
+
+body {
+  font-family: 'Orbitron', sans-serif;
+}
+
+
+$rb1: 1vh;
+$reds: #801a1b;
+$orbFont: 'Orbitron', sans-serif;
+
+#drum-machine {
+  border-radius: 1vh;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-image: radial-gradient(black, #f8ffff);
+
+  #keypad {
+    border-radius: 1vh;
+    width: 70vw;
+    border: 5px outset $reds;
+    justify-content: center;
+
+    #title{
+      border: 2px outset #424242;
+      text-align: center;
+      font-size: 5vh;
+      color: $reds;
+      background-color: #202020;
+    }
+
+    #display {
+      border-left: 2px solid #424242;
+      align-self: center;
+      display: flex;
+      flex-direction: column;
+      align-content: space-around;
+      background-color: black;
+      justify-content: space-around;
+      height: 10vh;
+
+      #displayText {
+        border-radius: 1vh;
+        color: #07fd4d;
+        text-align: center;
+      }
+    }
+
+    #keyrows {
+
+      .keyrow {
+        font: $orbFont;
+        height: 15vh;
+        padding: 1vh;
+        background-color: black;
+        border: 1px outset grey;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        height: 10vh;
+        background-image: linear-gradient(#505052, #353738);
+
+        .drum-pad {
+          border-radius: 1vh;
+
+          .button{
+            font-family: $orbFont;
+            border-radius: 1vh;
+            border: 2px outset #424242;
+            font-size: 4vh;
+            height: 10vh;
+            width: 10vh;
+          }
+        }
+      }
+    }
+
+    #footer {
+      //border-radius: 0 0 1vh 1vh;
+      text-align: center;
+      font-size: 5vh;
+      color: $reds;
+      background-color: #202020;
+    }
+
+  }
+}
+
+
+
+
+
+
+
+
