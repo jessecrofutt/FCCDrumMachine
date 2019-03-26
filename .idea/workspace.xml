@@ -2,8 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a12aaa45-a48d-4d47-9b0e-ea1f51125975" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_ClHat-01.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_ClHat-02.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_ClHat-03.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_ClHat-04.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_ClHat-05.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_ClHat-06.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_ClHat-07.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_ClHat-09.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_Flam-01.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_Flam-02.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_Flam-03.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_Flam-04.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_Kick-01.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_Kick-02.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_Kick-03.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_Kick-04.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_Kick-05.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_Kick-06.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_OpHat-02.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_OpHat-03.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_OpHat-04.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_OpHat-05.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_OpHat-06.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_OpHat-07.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_PdHat-02.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_PdHat-03.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_PdHat-04.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_Rim-01.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_Rim-02.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_Rim-03.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_Rim-05.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_Rim-06.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_Rim-07.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_SdSt-01.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_SdSt-02.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_SdSt-03.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_SdSt-04.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_SdSt-05.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_SdSt-07.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_Snr-01.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_Snr-02.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_Snr-03.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_Snr-04.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_SnrOff-01.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_SnrOff-02.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_SnrOff-03.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_SnrOff-04.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_SnrOff-05.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_SnrOff-06.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_SnrOff-07.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/CYCdh_K1close_SnrOff-08.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/boss1Theme.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/coffeeSounds.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/creakyTree.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/media/sounds/creakyTree.mp3.reapeaks" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -48,17 +103,19 @@
           <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-                  <folding />
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="drumMachine.jsx" pinned="false" current-in-tab="false">
+          <file leaf-file-name="drumMachine.jsx" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/js/drumMachine.jsx">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="435">
+                <state relative-caret-position="1963">
                   <caret line="132" column="3" lean-forward="true" selection-start-line="132" selection-start-column="3" selection-end-line="132" selection-end-column="3" />
                   <folding>
                     <element signature="e#0#39#0" expanded="true" />
@@ -77,11 +134,31 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="225">
-                  <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/webpack.config.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="571">
+                  <caret line="51" column="7" lean-forward="false" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/package-lock.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="15">
+                  <caret line="386" column="6" lean-forward="false" selection-start-line="386" selection-start-column="6" selection-end-line="386" selection-end-column="6" />
                   <folding />
                 </state>
               </provider>
@@ -193,12 +270,12 @@
         <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" />
         <option value="$PROJECT_DIR$/.babelrc" />
-        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/scss/FCCDrummer.scss" />
         <option value="$PROJECT_DIR$/dist/index.html" />
         <option value="$PROJECT_DIR$/src/js/drumMachine.jsx" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/index.js" />
       </list>
     </option>
   </component>
@@ -288,6 +365,19 @@
               <item name="FCCDrummer" type="b2602c69:ProjectViewProjectNode" />
               <item name="FCCDrummer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FCCDrummer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FCCDrummer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+              <item name="sounds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FCCDrummer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FCCDrummer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="scss" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -356,18 +446,17 @@
       <workItem from="1553253057223" duration="28988000" />
       <workItem from="1553460218366" duration="1294000" />
       <workItem from="1553516302827" duration="14016000" />
-      <workItem from="1553627879610" duration="5289000" />
+      <workItem from="1553627879610" duration="5874000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108597000" />
+    <option name="totallyTimeSpent" value="109182000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.193265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.193265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20183486" sideWeight="0.511713" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -440,7 +529,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-          <folding />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -512,7 +603,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          <folding />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -620,20 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="386" column="6" lean-forward="false" selection-start-line="386" selection-start-column="6" selection-end-line="386" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="51" column="7" lean-forward="false" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -660,24 +739,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/drumMachine.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="132" column="3" lean-forward="true" selection-start-line="132" selection-start-column="3" selection-end-line="132" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -686,11 +747,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="51" column="7" lean-forward="false" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="386" column="6" lean-forward="false" selection-start-line="386" selection-start-column="6" selection-end-line="386" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/drumMachine.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1963">
+          <caret line="132" column="3" lean-forward="true" selection-start-line="132" selection-start-column="3" selection-end-line="132" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
