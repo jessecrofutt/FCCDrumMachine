@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
-import swirl from '../media/spiral-starburst4.png';
 import '../scss/FCCDrummer.scss';
 import { hot } from 'react-hot-loader/root';
 
