@@ -47,7 +47,15 @@ module.exports = {
       },
       {
         test: /\.(ogg|mp3|wav|mpe?g)$/i,
-        use: ['file-loader']
+        use: {
+          loader: 'file-loader',
+          options: {
+            limit: 100000,
+            name: '[name].[ext]',
+            publicPath: '.',
+            outputPath: '.'
+          }
+        }
       },
       {
         test: /\.(csc|tsv)$/,
