@@ -1,10 +1,11 @@
 const webpack = require('webpack');
+const path = require('path');
 
 module.exports = {
   entry: './src/index.js',
   output: {
     path: __dirname + '/dist',
-    publicPath:  '/mist',
+    publicPath:  '/',
     filename: 'bundle.js'
   },
   resolve: {
@@ -46,6 +47,9 @@ module.exports = {
       },
       {
         test: /\.(ogg|mp3|wav|mpe?g)$/i,
+        include: [
+          path.resolve(__dirname)
+        ],
         use: [
             'file-loader'
         ]
