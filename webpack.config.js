@@ -48,7 +48,7 @@ module.exports = {
       {
         test: /\.(ogg|mp3|wav|mpe?g)$/i,
         include: [
-          path.resolve(__dirname)
+          path.resolve(__dirname + '/FCCDrumMachine/dist)
         ],
         use: [
             'file-loader'
