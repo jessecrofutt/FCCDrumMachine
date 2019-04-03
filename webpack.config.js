@@ -1,7 +1,6 @@
 const webpack = require('webpack');
 
 module.exports = {
-  // entry: './src/index.js',
   entry: './src/index.js',
   output: {
     path: __dirname + '/dist',
@@ -48,7 +47,9 @@ module.exports = {
       {
         test: /\.(ogg|mp3|wav|mpe?g)$/i,
         
-        use: ['file-loader']
+        use: [
+            'file-loader'
+        ]
       },
       {
         test: /\.(csc|tsv)$/,
