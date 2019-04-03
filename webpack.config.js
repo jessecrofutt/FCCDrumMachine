@@ -4,7 +4,7 @@ module.exports = {
   entry: './src/index.js',
   output: {
     path: __dirname + '/dist',
-    publicPath: '/',
+    publicPath: 'dist',
     filename: 'bundle.js'
   },
   resolve: {
@@ -46,7 +46,6 @@ module.exports = {
       },
       {
         test: /\.(ogg|mp3|wav|mpe?g)$/i,
-        
         use: [
             'file-loader'
         ]
