@@ -4,7 +4,7 @@ const path = require('path');
 module.exports = {
   entry: './src/index.js',
   output: {
-    path: __dirname + '/dist',
+    path: __dirname + '/FCCDrumMachine/dist',
     publicPath:  '/dist/',
     filename: 'bundle.js'
   },
