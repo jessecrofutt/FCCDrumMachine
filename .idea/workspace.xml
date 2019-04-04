@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a12aaa45-a48d-4d47-9b0e-ea1f51125975" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FCCDrumMachine/dist/145d88c2513f787cf4abe234fb0de000.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FCCDrumMachine/dist/1d283e787f663a200c40720340115ffc.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FCCDrumMachine/dist/3e477c5ef6f9b7555da128674f792adb.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FCCDrumMachine/dist/69a894e9d439c0325bbfceceebb12330.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FCCDrumMachine/dist/90543efda8a1f1509437e97a63333996.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FCCDrumMachine/dist/a3f02b8c8f6dfde684082bf8aafd7b46.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FCCDrumMachine/dist/b0b9844e1d7fd30f90c1fa85883b39cf.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FCCDrumMachine/dist/bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FCCDrumMachine/dist/d29d648a1f66143949c531f66a9b68c0.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FCCDrumMachine/dist/e778200cccbbf48d5d63d78ee704ab78.mp3" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -65,8 +55,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dist/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="195">
+              <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -333,12 +323,12 @@
       <workItem from="1554222613128" duration="8363000" />
       <workItem from="1554238537080" duration="2348000" />
       <workItem from="1554241546314" duration="173000" />
-      <workItem from="1554316472935" duration="8715000" />
+      <workItem from="1554316472935" duration="9641000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134318000" />
+    <option name="totallyTimeSpent" value="135244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="683" height="738" extended-state="0" />
@@ -632,8 +622,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        <state relative-caret-position="195">
+          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
           <folding />
         </state>
       </provider>
