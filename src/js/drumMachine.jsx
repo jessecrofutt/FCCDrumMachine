@@ -19,17 +19,22 @@ const LITPADCOLOR = "#a5ffac";
 
 const Key = (props) => {
 
+
+
     return (
-        <div className="drum-pad" >
-          <button type="button"
-                  className="button"
+
+          <button id={props.id}
+                  className="drum-pad"
+                  type="button"
                   onClick={() => props.play(props.id, props.audio)}
                   style={props.color}>
             {props.label}
+            <audio id={props.label} className="clip" src={props.audio}></audio>
           </button>
-          <audio className="clip" id={props.label} src={props.audio}></audio>
-        </div>
+
+
     )
+
 }
 
 class Keypad extends Component {
