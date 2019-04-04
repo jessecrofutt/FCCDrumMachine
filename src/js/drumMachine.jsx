@@ -19,10 +19,7 @@ const LITPADCOLOR = "#a5ffac";
 
 const Key = (props) => {
 
-
-
     return (
-
           <button id={props.id}
                   className="drum-pad"
                   type="button"
@@ -31,10 +28,7 @@ const Key = (props) => {
             {props.label}
             <audio id={props.label} className="clip" src={props.audio}></audio>
           </button>
-
-
     )
-
 }
 
 class Keypad extends Component {
