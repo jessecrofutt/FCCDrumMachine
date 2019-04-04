@@ -27,7 +27,7 @@ const Key = (props) => {
                   style={props.color}>
             {props.label}
           </button>
-          <audio className="clip" id={props.id} src={props.audio}></audio>
+          <audio className="clip" id={props.label} src={props.audio}></audio>
         </div>
     )
 }
